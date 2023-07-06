@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359f8417-a3a3-4f98-aa30-7dac7cfce3c9" name="Changes" comment="initial commit, first design">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="359f8417-a3a3-4f98-aa30-7dac7cfce3c9" name="Changes" comment="small refactoring of env files">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search/search.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <workItem from="1688592406535" duration="8448000" />
       <workItem from="1688602105180" duration="197000" />
       <workItem from="1688602344760" duration="184000" />
-      <workItem from="1688651491381" duration="258000" />
+      <workItem from="1688651491381" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, first design">
       <created>1688601558256</created>
@@ -71,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688601558256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="small refactoring of env files">
+      <created>1688651769948</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688651769948</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit, first design" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit, first design" />
+    <MESSAGE value="small refactoring of env files" />
+    <option name="LAST_COMMIT_MESSAGE" value="small refactoring of env files" />
   </component>
 </project>

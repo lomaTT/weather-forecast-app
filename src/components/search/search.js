@@ -28,6 +28,8 @@ const Search = ({ onSearchChange }) => {
     onSearchChange(searchData);
   }
 
+  // console.log(process.env.REACT_APP_X_RAPID_API_HOST)
+
   return (
     <AsyncPaginate
       placeholder="Search for city"
